@@ -21,9 +21,13 @@ import { vertexAI } from '@genkit-ai/vertexai';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  // ...
-  projectId: 'REPLACE_WITH_YOUR_PROJECT_ID',
-  // ...
+  apiKey: "AIzaSyATJ-YPd6_3dJRTD9wYWDqcmdOTsBwI38U",
+  authDomain: "campass-app.firebaseapp.com",
+  projectId: "campass-app",
+  storageBucket: "campass-app.appspot.com",
+  messagingSenderId: "887275029719",
+  appId: "1:887275029719:web:b87e9ba576501a444f9c92",
+  measurementId: "G-4VWYJW4C99"
 };
 
 export const getProjectId = () => {
