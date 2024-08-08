@@ -22,7 +22,7 @@ import { vertexAI } from '@genkit-ai/vertexai';
 // Your web app's Firebase configuration
 
 const firebaseConfig = {
-  apiKey: "AIzaSyATJ-YPd6_3dJRTD9wYWDqcmdOTsBwI38U",
+  apiKey: "YOUR_API_KEY",
   authDomain: "campass-app.firebaseapp.com",
   projectId: "campass-app",
   storageBucket: "campass-app.appspot.com",
